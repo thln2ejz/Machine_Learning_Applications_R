@@ -1,6 +1,6 @@
 # Machine_Learning_Applications_R
 
-<a class="external reference" href="https://thln2ejz.github.io/Machine_Learning_Applications_R/python_intro.html">R Intro</a><br>
+<a class="external reference" href="https://thln2ejz.github.io/Machine_Learning_Applications_R/R_intro.html">R Intro</a><br>
 <a class="external reference" href="https://thln2ejz.github.io/Machine_Learning_Applications_R/segmentation.html">Customer segmentation</a><br>
 <a class="external reference" href="https://thln2ejz.github.io/Machine_Learning_Applications_R/conversion_rate.html">Conversion rate</a><br>
 <a class="external reference" href="https://thln2ejz.github.io/Machine_Learning_Applications_R/churn_prediction.html">Churn prediction</a><br>
